@@ -1,2 +1,2 @@
 # repo_test
-manampy an'ity aho
+manampy an'ity ao
